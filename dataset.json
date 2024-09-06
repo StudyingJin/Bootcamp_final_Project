@@ -1,0 +1,22 @@
+{
+    "dataset_type": "audio_dir",
+    "datasets": [
+        {
+            "id": "glitchcool3",
+            "path": "/content/drive/MyDrive/dataset/Glitch With Friends- Samples Vol. 3",
+            "custom_metadata_module": "/content/drive/MyDrive/dataset.py"
+        },
+        {
+            "id": "glitchcool0",
+            "path": "/content/drive/MyDrive/dataset/Saphicord Community Pack Vol. 1 FINAL",
+            "custom_metadata_module": "/content/drive/MyDrive/dataset.py"
+        },
+        {
+            "id": "genres",
+            "path": "/content/drive/MyDrive/dataset/genres_original",
+            "custom_metadata_module": "/content/drive/MyDrive/dataset.py"
+        }
+        
+    ],
+    "random_crop": false
+}
