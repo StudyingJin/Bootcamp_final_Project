@@ -2,10 +2,6 @@
   SW Bootcamp Final Project
 </H2>
 
-<p align="center">
-  <img src="IMAGE_URL" alt="Stable Audio Logo" width="200">
-</p>
-
 <H2 align="center">Using Stable Audio Open</H2>
 
 <p align="center">
